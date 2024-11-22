@@ -1,0 +1,34 @@
+
+
+  .home {
+    min-height: 100vh;
+background-color: #eeeeee;
+  }
+  
+  .card {
+    background-color: #ffffff;
+
+  }
+  
+  h1 {
+    color: teal;
+    font-family: "Dancing Script", cursive;
+
+
+  }
+  
+  
+  #quotes {
+    color: tomato;
+    font-family: "Great Vibes", cursive;
+
+
+  }
+  
+  #author {
+    color: tan;
+    font-family: "Great Vibes", cursive;
+
+  }
+  
+
